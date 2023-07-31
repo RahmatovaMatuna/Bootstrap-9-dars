@@ -1,0 +1,23 @@
+.block{
+    position: relative;
+    right: 400px;
+}
+.navbar{
+    background-color: #0b4786;
+    color: white;
+}
+.btn{
+    position: relative;
+    left: 10px;
+}
+.about{
+    position: relative;
+    left: 750px;
+    padding: 5px;
+}
+.ul{
+    background-color: #0b4786;
+}
+.il{
+    color: #ffffff;
+}
